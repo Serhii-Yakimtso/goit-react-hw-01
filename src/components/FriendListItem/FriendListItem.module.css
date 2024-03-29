@@ -1,0 +1,12 @@
+.avatar {
+  width: 50px;
+}
+.name {
+  font-weight: 700;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
